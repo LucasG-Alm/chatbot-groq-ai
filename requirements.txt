@@ -1,0 +1,6 @@
+langchain-groq
+langchain
+langchain-community
+python-dotenv
+pypdf
+youtube-transcript-api 
