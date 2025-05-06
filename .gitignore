@@ -26,8 +26,8 @@ var/
 *.egg
 
 # Arquivos do Jupyter
-.ipynb_checkpoints
-*.ipynb
+#.ipynb_checkpoints
+#*.ipynb
 
 # Arquivos de IDE
 .idea/
