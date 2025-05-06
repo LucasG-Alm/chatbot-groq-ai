@@ -1,5 +1,7 @@
 # Arquivos de ambiente
 .env
+.venv
+..venv
 
 # Arquivos do Python
 __pycache__/
